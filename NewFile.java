@@ -23,3 +23,4 @@ public class array {
 //        int[] nums = {2,3,54,6,7};
 //        int x = nums[2];
 //     System.out.println(x);
+//     System.out.println(x);
